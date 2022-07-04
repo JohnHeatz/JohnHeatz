@@ -2,7 +2,7 @@
 
 ![GEEKplay_1080p](https://user-images.githubusercontent.com/5440541/177202699-5874ea84-1484-417a-8f60-63f699cb1a4c.png)
 
-I am an Azure Identity specialist, but also have some knowledge in coding and that's what I really like doing and learning about. 
+I am an Azure Identity specialist, but also have some knowledge in coding and that's what I really like doing and learning about. Also I'm always happy to help with EN/ES <img align="center" src="https://github.com/JohnHeatz/JohnHeatz/blob/main/images/CR.png" height="30" /> translations for projects. 
 
 ### <h3 align="left">Languages and Tools:</h3>
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=6aa6f8)
@@ -20,13 +20,12 @@ I am an Azure Identity specialist, but also have some knowledge in coding and th
   <li><a href="https://www.youtube.com/channel/UCf6kpwR31T--HqhyNrLBPOg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCf6kpwR31T--HqhyNrLBPOg?label=GEEKplayCR&style=social" alt="" /></a></li>
 </ul>
 
-### I play a lot of games too!
+### I play a lot of games too! 🎮
 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/JohnHeatz/blob/master/images/Steam.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/JohnHeatz/blob/master/images/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/JohnHeatz/blob/master/images/Battlenet.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/JohnHeatz/blob/master/images/Xbox.png" height="30" /></a> 
-
+<a href="https://steamcommunity.com/id/johnheatz" target="blank"><img align="center" src="https://github.com/JohnHeatz/JohnHeatz/blob/main/images/Steam.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/JohnHeatz/JohnHeatz/blob/main/images/Epic.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/JohnHeatz/JohnHeatz/blob/main/images/Battlenet.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/JohnHeatz/JohnHeatz/blob/main/images/Xbox.png" height="30" /></a> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnHeatz&theme=highcontrast)](https://git.io/streak-stats)
 

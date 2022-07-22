@@ -16,7 +16,7 @@ I am an Azure Identity specialist, but also have some knowledge in coding and th
 
 <ul>
   <li><a href="https://www.twitch.tv/geekplaycr" target="blank"><img align="center" src="https://img.shields.io/twitch/status/geekplaycr?label=GEEKplayCR&style=social" alt="" /></a></li>
-  <li><a href="https://discord.gg/xhsBwmRUpX" target="blank"><img align="center" src="https://img.shields.io/discord/753703922115411979?color=purple&label=GEEKplayCR&logo=Discord&style=social" alt="" /></a></li>
+  <li><a href="https://discord.gg/JohnHeatz#1337" target="blank"><img align="center" src="https://img.shields.io/discord/753703922115411979?color=purple&label=GEEKplayCR&logo=Discord&style=social" alt="" /></a></li>
   <li><a href="https://www.youtube.com/channel/UCf6kpwR31T--HqhyNrLBPOg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCf6kpwR31T--HqhyNrLBPOg?label=GEEKplayCR&style=social" alt="" /></a></li>
 </ul>
 

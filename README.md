@@ -1,3 +1,131 @@
+## Hi there! 👋 I'm JohnHeatz, owner of [GEEKplayCR](https://geekplaycr.com) 🦉
+
+![GEEKplay_1080p](https://user-images.githubusercontent.com/5440541/177202699-5874ea84-1484-417a-8f60-63f699cb1a4c.png)
+
+### About Me
+
+I'm a **Senior Technical Advisory** specializing in **Azure Identity**, with a deep passion for coding. I have a wide range of technical skills, and I enjoy working on various projects, from **website development** to **bot creation** for Discord communities. I'm currently focused on:
+
+- Developing [GEEKplayCR](https://geekplaycr.com), a platform for news and reviews on video games.
+- Building **bots for Discord**, including GEEKbot, which will offer powerful community management features.
+- Managing **servers for FiveM** (GTA 5 and RDR2) and creating custom plugins for WordPress.
+
+I'm also happy to contribute to **EN/ES translations** for open-source projects.
+
+### Languages and Tools
+
+Here's a snapshot of the technologies I work with on a regular basis:
+
+- **Languages**:  
+  ![VB.NET](https://img.shields.io/badge/Code-VB.NET-informational?style=flat&logo=.net&logoColor=white&color=6aa6f8) 
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) 
+  ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8) 
+  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) 
+  ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8) 
+  ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8) 
+  ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8) 
+  ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
+- **Tools**:  
+  ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8) 
+  ![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=6aa6f8) 
+  ![Azure](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=azure&logoColor=white&color=6aa6f8) 
+  ![WordPress](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=6aa6f8) 
+  ![Discord](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)
+
+### Current Projects
+
+- **[GEEKplayCR](https://geekplaycr.com)** – My platform for video game reviews and news.
+- **GEEKbot** – A Discord bot for community management, with future monetization plans.
+- **FiveM and RedM Servers** – Custom plugins for GTA 5 and RDR2 servers.
+- Various **bots** for automating Discord community tasks.
+
+### Socials
+
+Stay connected with me through these platforms:
+
+- **[Twitch](https://www.twitch.tv/geekplaycr)**  
+- **[Discord](https://discord.gg/mXzmRGJgqG)**  
+- **[YouTube](https://www.youtube.com/channel/UCf6kpwR31T--HqhyNrLBPOg)**
+
+### GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnHeatz&theme=highcontrast)](https://git.io/streak-stats)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JohnHeatz)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Let's Play! 🎮
+
+Check out my gaming profiles:  
+- **[Steam](https://steamcommunity.com/id/johnheatz)**  
+- **Epic Games, Battlenet, Xbox** – Profiles available upon request!
+
+---
+
+## ¡Hola! 👋 Soy JohnHeatz, dueño de [GEEKplayCR](https://geekplaycr.com) 🦉
+
+### Sobre mí
+
+Soy un **Asesor Técnico Senior** especializado en **Azure Identity**, y tengo una gran pasión por la programación. Cuento con un amplio rango de habilidades técnicas, y disfruto trabajar en proyectos variados, desde el **desarrollo de sitios web** hasta la **creación de bots** para comunidades en Discord. Actualmente me estoy enfocando en:
+
+- Desarrollar [GEEKplayCR](https://geekplaycr.com), una plataforma para noticias y reseñas de videojuegos.
+- Construir **bots para Discord**, como GEEKbot, el cual ofrecerá funciones avanzadas de gestión de comunidades.
+- Administrar **servidores de FiveM** (GTA 5 y RDR2) y crear plugins personalizados para WordPress.
+
+También me encanta contribuir con **traducciones EN/ES** para proyectos de código abierto.
+
+### Lenguajes y Herramientas
+
+Aquí te muestro algunas de las tecnologías con las que trabajo regularmente:
+
+- **Lenguajes**:  
+  ![VB.NET](https://img.shields.io/badge/Code-VB.NET-informational?style=flat&logo=.net&logoColor=white&color=6aa6f8) 
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) 
+  ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8) 
+  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8) 
+  ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8) 
+  ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8) 
+  ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8) 
+  ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
+- **Herramientas**:  
+  ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8) 
+  ![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=6aa6f8) 
+  ![Azure](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=azure&logoColor=white&color=6aa6f8) 
+  ![WordPress](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=6aa6f8) 
+  ![Discord](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=white&color=6aa6f8)
+
+### Proyectos Actuales
+
+- **[GEEKplayCR](https://geekplaycr.com)** – Mi plataforma para reseñas y noticias de videojuegos.
+- **GEEKbot** – Un bot para Discord, con planes de monetización a futuro.
+- **Servidores de FiveM y RedM** – Plugins personalizados para servidores de GTA 5 y RDR2.
+- Diversos **bots** para automatizar tareas en comunidades de Discord.
+
+### Redes Sociales
+
+Conéctate conmigo en estas plataformas:
+
+- **[Twitch](https://www.twitch.tv/geekplaycr)**  
+- **[Discord](https://discord.gg/mXzmRGJgqG)**  
+- **[YouTube](https://www.youtube.com/channel/UCf6kpwR31T--HqhyNrLBPOg)**
+
+### Estadísticas de GitHub
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnHeatz&theme=highcontrast)](https://git.io/streak-stats)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JohnHeatz)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ¡A Jugar! 🎮
+
+¡Conéctate a mis perfiles de videojuegos!  
+- **[Steam](https://steamcommunity.com/id/johnheatz)**  
+- **Epic Games, Battlenet, Xbox** – Perfiles disponibles bajo petición.
+
+
+
+<!--
+OLD File
+======================================================================
+
 ### Hi there, I'm JohnHeatz, owner of <a href="https://geekplaycr.com">GEEKplayCR</a> 🦉
 
 ![GEEKplay_1080p](https://user-images.githubusercontent.com/5440541/177202699-5874ea84-1484-417a-8f60-63f699cb1a4c.png)

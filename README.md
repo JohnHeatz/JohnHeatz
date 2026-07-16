@@ -1,3 +1,218 @@
+
+<div align="center">
+
+👋 ¡Hola! Soy John Heatz
+Identity Technical Advisor · Software Developer · Community Builder
+
+Construyo herramientas que convierten ideas de comunidad en productos reales.
+I build tools that turn community ideas into real products.
+
+
+
+
+
+
+🇨🇷 Español · 🇺🇸 English
+
+</div>
+
+## 🇨🇷 Sobre mí
+
+Soy Ingeniero en Sistemas y Technical Advisor especializado en Microsoft Entra Identity. Profesionalmente trabajo con identidad, autenticación, acceso y resolución de problemas técnicos en ambientes empresariales.
+
+Fuera de mi trabajo principal, desarrollo herramientas enfocadas en comunidades digitales, automatización, bots de Discord e inteligencia artificial.
+
+Actualmente, gran parte de mi trabajo independiente está concentrado en construir el ecosistema tecnológico de PokeHeatz, una comunidad costarricense dedicada a los juegos de cartas coleccionables.
+
+No me interesa desarrollar tecnología únicamente porque sea posible. Me interesa construir soluciones que resuelvan problemas reales, organicen comunidades y hagan que la experiencia de sus usuarios sea más sencilla.
+
+Convirtiendo ideas de comunidad en software.
+
+### 🔥 En qué estoy trabajando
+PokeHeatz
+
+PokeHeatz es una comunidad TCG creada en Costa Rica para conectar coleccionistas, jugadores, vendedores y tiendas dentro de un mismo ecosistema.
+
+Mi trabajo dentro del proyecto incluye:
+
+Diseño y desarrollo del ecosistema de Discord.
+Automatización de procesos comunitarios.
+Integración de tiendas y servicios externos.
+Herramientas para compra, venta e intercambio.
+Sistemas de reputación y seguimiento de transacciones.
+Flujos de creación de contenido asistidos por IA.
+Diseño de experiencias y funciones basadas en necesidades reales de la comunidad.
+
+
+
+
+### 🐶 Chanchi
+
+Chanchi es el bot oficial de Discord de PokeHeatz.
+
+Lo que comenzó como un asistente para consultas relacionadas con TCG está evolucionando hacia una plataforma comunitaria mucho más completa.
+
+Entre las áreas en las que trabajo se encuentran:
+
+Búsqueda y consulta de cartas.
+Comparación y análisis de productos.
+Marketplace comunitario.
+Publicaciones de compra, venta e intercambio.
+Perfiles y sistemas de reputación.
+Wishlists y seguimiento de colecciones.
+Herramientas para tiendas y vendedores.
+Automatización de moderación y administración.
+Notificaciones y feeds especializados.
+Integración de datos y servicios externos.
+
+Algunas partes del ecosistema son privadas o se encuentran en desarrollo activo, por lo que no todos mis proyectos actuales aparecen como repositorios públicos.
+
+### 🧠 Áreas de interés
+Discord Bots        Community Platforms       Identity & Access
+Automation          API Integrations          Artificial Intelligence
+Data Processing     Backend Development       Developer Experience
+### 🛠️ Tecnologías y herramientas
+### Lenguajes
+
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="VB.NET"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> </p>
+
+### Plataformas y herramientas
+
+<p> <img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord API"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/> </p>
+
+🌱 En constante aprendizaje
+
+Actualmente continúo profundizando en:
+
+Arquitectura escalable para bots y plataformas comunitarias.
+Diseño e integración de APIs.
+Automatización de procesos.
+Procesamiento y normalización de datos.
+Aplicaciones de IA dentro de flujos reales.
+Servicios cloud y arquitecturas distribuidas.
+Seguridad, identidad y control de acceso.
+🌎 Idiomas y colaboración
+
+Hablo español e inglés y también tengo experiencia colaborando con traducciones y localización EN/ES para proyectos tecnológicos.
+
+Estoy especialmente interesado en proyectos relacionados con:
+
+Bots y aplicaciones para Discord.
+Automatización de comunidades.
+Plataformas para coleccionistas.
+APIs e integraciones.
+Inteligencia artificial aplicada.
+Identity and Access Management.
+## 🇺🇸 About Me
+
+I am a Systems Engineer and a Technical Advisor specializing in Microsoft Entra Identity. Professionally, I work with identity, authentication, access management, and technical troubleshooting in enterprise environments.
+
+Outside of my primary role, I build tools focused on digital communities, automation, Discord bots, and artificial intelligence.
+
+A significant part of my independent development work is currently dedicated to the technology ecosystem behind PokeHeatz, a Costa Rican community for trading card game collectors and players.
+
+I am not interested in building technology simply because it can be built. I want to create solutions that address real problems, organize communities, and make their users' experience easier.
+
+Turning community ideas into software.
+
+### 🔥 What I am building
+PokeHeatz
+
+PokeHeatz is a TCG community created in Costa Rica to connect collectors, players, sellers, and stores through a shared ecosystem.
+
+My work on the project includes:
+
+Designing and developing its Discord ecosystem.
+Automating community processes.
+Integrating stores and external services.
+Building tools for buying, selling, and trading.
+Developing reputation and transaction-tracking systems.
+Creating AI-assisted content workflows.
+Designing features based on real community needs.
+
+
+
+
+### 🐶 Chanchi
+
+Chanchi is the official Discord bot for the PokeHeatz community.
+
+What started as a TCG information assistant is evolving into a much broader community platform.
+
+Some of the areas I work on include:
+
+Card search and information tools.
+Product research and comparison.
+Community marketplace features.
+Buying, selling, and trading listings.
+User profiles and reputation systems.
+Wishlists and collection tools.
+Features for stores and independent sellers.
+Moderation and administrative automation.
+Specialized notifications and feeds.
+External data and service integrations.
+
+Some parts of this ecosystem are private or under active development, so not every current project is available as a public repository.
+
+### 🧠 Areas of interest
+Discord Bots        Community Platforms       Identity & Access
+Automation          API Integrations          Artificial Intelligence
+Data Processing     Backend Development       Developer Experience
+### 🛠️ Technologies and tools
+### Languages
+
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="VB.NET"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> </p>
+
+### Platforms and tools
+
+<p> <img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord API"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/> </p>
+
+### 🌱 Always learning
+
+I am currently expanding my knowledge in:
+
+Scalable architecture for bots and community platforms.
+API design and integrations.
+Process automation.
+Data processing and normalization.
+Practical AI integrations.
+Cloud services and distributed architectures.
+Security, identity, and access management.
+🌎 Languages and collaboration
+
+I speak Spanish and English, and I also have experience contributing EN/ES translations and localization to technology projects.
+
+I am especially interested in projects involving:
+
+Discord bots and applications.
+Community automation.
+Collector-focused platforms.
+APIs and integrations.
+Applied artificial intelligence.
+Identity and Access Management.
+
+<div align="center">
+
+📊 GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohnHeatz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="John's GitHub statistics"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHeatz&layout=compact&theme=github_dark&hide_border=true" alt="John's most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=JohnHeatz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+💬 Construyamos algo útil · Let's build something useful
+
+
+
+
+
+</div>
+
+<!--
+OLD File
 ## Hi there! 👋 I'm JohnHeatz, owner of [GEEKplayCR](https://geekplaycr.com) 🦉
 
 ![GEEKplay_1080p](https://user-images.githubusercontent.com/5440541/177202699-5874ea84-1484-417a-8f60-63f699cb1a4c.png)

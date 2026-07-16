@@ -195,8 +195,6 @@ Identity and Access Management.
 
 📊 GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohnHeatz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="John's GitHub statistics"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHeatz&layout=compact&theme=github_dark&hide_border=true" alt="John's most used languages"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=JohnHeatz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
